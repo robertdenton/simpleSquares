@@ -1,6 +1,9 @@
 <h1>Simple Squares</h1>
-<p>This is a simple, responsive HTML file with embedded CSS that displays squares.</p>
-<p>Each square in this example is a link but each could be a photo or text information</p>
+
+This is a simple, responsive HTML file with embedded CSS that displays squares.
+
+Each square in this example is a link but each could be a photo or text information.
+
 License:
 
 The MIT License (MIT)
