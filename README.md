@@ -1,4 +1,7 @@
-<h1>Simple Squares</h1>
+# Simple Squares #
+
+[Example](http://robertrdenton.com/examples/simpleSquares/)
+
 
 This is a simple, responsive HTML file with embedded CSS that displays squares.
 
